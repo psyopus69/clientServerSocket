@@ -1,4 +1,4 @@
-import com.phonePack.*;
+import com.phonePack.Phone;
 import java.io.*;
 
 public class Client {
